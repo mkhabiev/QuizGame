@@ -1,0 +1,3 @@
+C++ quiz with an easy level of difficulty of 5 questions
+
+Викторина по C++ с легким уровнем сложности из 5 вопросов
